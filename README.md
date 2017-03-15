@@ -8,3 +8,9 @@ Ce projet est un projet de **démonstration** à titre éducatif dans le cadre d
 Principe du jeu à décrire ici
 ### Participants
 Tous les membres de la formation
+
+## Auteur
+C'est moi : Jason
+
+## Remerciements
+Merci à toutes et à tous !
